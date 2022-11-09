@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c3881daf.js",
+    "static/media/audio1.mp3": "/static/media/audio1.d0cc062d2f8829935d33.mp3",
+    "static/media/audio2.mp3": "/static/media/audio2.d0cc062d2f8829935d33.mp3",
+    "static/media/audio3.mp3": "/static/media/audio3.d0cc062d2f8829935d33.mp3",
+    "index.html": "/index.html",
+    "main.c3881daf.js.map": "/static/js/main.c3881daf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c3881daf.js"
+  ]
+}
